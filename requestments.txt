@@ -1,0 +1,8 @@
+boto3
+regex
+sacremoses
+sentencepiece
+jsonlines
+matplotlib
+scikit-learn
+nltk
